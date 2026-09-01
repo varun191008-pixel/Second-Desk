@@ -67,20 +67,6 @@ Vite, React, TypeScript, Tailwind. All math in src/lib. No backend, no auth, no 
 
 Folders: src/data (prices, documents, headlines, people, ledgers), src/lib/agents (tape, docket, wire, chair), src/lib/features.ts.
 
-## Run locally
-
-Need Node 18+.
-
-npm install
-npm run dev
-
-Open the URL it prints (http://localhost:5173).
-
-npm run build
-npm run preview
-
-Deploy: upload the dist folder to Netlify. For extra routes add public/_redirects with: /*    /index.html   200
-
 ## What we did not build
 
 Live NSE, a real vector DB, login in front of the demo, brokerage, ten agents.
