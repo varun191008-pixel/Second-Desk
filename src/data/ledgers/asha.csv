@@ -1,0 +1,13 @@
+date,ticker,side,qty,price,r5,volz,note
+2025-01-10,RELIANCE,buy,10,2550,0.010,0.20,open lot later closed
+2025-02-28,RELIANCE,sell,10,2680,0.038,0.40,sold into strength
+2025-03-10,HDFCBANK,buy,40,1480,0.008,0.20,quiet add
+2025-04-02,HDFCBANK,buy,30,1510,0.012,-0.10,quiet add
+2025-05-15,TCS,buy,20,3650,-0.010,0.00,not a chase
+2025-06-20,RELIANCE,buy,15,2600,0.015,0.30,open lot later closed
+2025-07-08,HDFCBANK,buy,25,1520,0.005,0.10,quiet add
+2025-08-19,TCS,buy,20,3720,0.004,-0.20,quiet add
+2025-09-30,RELIANCE,sell,15,2780,0.041,0.80,sold into strength
+2025-10-14,HDFCBANK,buy,25,1540,0.010,0.20,completes 120 shares
+2025-11-18,INFY,buy,8,1460,0.006,0.10,small lot later closed
+2025-12-09,INFY,sell,8,1510,0.028,0.30,took profit into strength

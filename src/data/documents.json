@@ -1,0 +1,92 @@
+[
+  {
+    "id": "infy-q1-call",
+    "title": "INFY Q1 FY26 earnings call",
+    "kind": "transcript",
+    "date": "2026-07-18",
+    "tickers": ["INFY"],
+    "quote": "Operating margin in Europe compressed 90 basis points year-on-year as clients delayed discretionary programs; we are not restoring the FY26 margin band until we see Q3.",
+    "text": "Operating margin in Europe compressed 90 basis points year-on-year as clients delayed discretionary programs; we are not restoring the FY26 margin band until we see Q3. Management said large deal TCV was steady. Conversion into revenue in Europe is slower. We flagged a cautious near-term margin outlook. India and US financial services remain stable. No change to the buyback policy discussed later."
+  },
+  {
+    "id": "infy-buyback",
+    "title": "Infosys open-market buyback tranche",
+    "kind": "filing",
+    "date": "2026-08-12",
+    "tickers": ["INFY"],
+    "quote": "The Board approved a further tranche of the ongoing buyback, not exceeding ₹8,000 crore, to be executed on the open market.",
+    "text": "The Board approved a further tranche of the ongoing buyback, not exceeding ₹8,000 crore, to be executed on the open market. The company reiterated cash generation remains adequate to fund the buyback and ordinary dividend. No dilution is proposed."
+  },
+  {
+    "id": "tcs-q1",
+    "title": "TCS Q1 FY26 earnings call",
+    "kind": "transcript",
+    "date": "2026-07-11",
+    "tickers": ["TCS"],
+    "quote": "Deal TCV was resilient; conversion into revenue is slower, and we flagged a cautious near-term margin outlook in the UK public sector book.",
+    "text": "Deal TCV was resilient; conversion into revenue is slower, and we flagged a cautious near-term margin outlook in the UK public sector book. Operating margin in the UK public sector book was under pressure. Management is not restoring that margin band this quarter. Demand commentary stayed mixed."
+  },
+  {
+    "id": "ril-agm",
+    "title": "Reliance AGM note",
+    "kind": "filing",
+    "date": "2026-08-21",
+    "tickers": ["RELIANCE"],
+    "quote": "New energy capex remains committed through FY27; management reiterated that the consumer and Jio engines continue to fund the transition.",
+    "text": "New energy capex remains committed through FY27; management reiterated that the consumer and Jio engines continue to fund the transition. Free cash flow from consumer and Jio remains strong. No investigation disclosed. Dividend policy unchanged."
+  },
+  {
+    "id": "hdfc-credit",
+    "title": "HDFC Bank credit update",
+    "kind": "filing",
+    "date": "2026-07-20",
+    "tickers": ["HDFCBANK"],
+    "quote": "Gross NPA remained stable sequentially. Management guided to mid-teens loan growth with no change to credit-cost range.",
+    "text": "Gross NPA remained stable sequentially. Management guided to mid-teens loan growth with no change to credit-cost range. Provisions were stable. Balance sheet commentary was uneventful. Deposit growth matched guidance."
+  },
+  {
+    "id": "tatam-jlr",
+    "title": "Tata Motors / JLR call",
+    "kind": "transcript",
+    "date": "2026-08-02",
+    "tickers": ["TATAMOTORS"],
+    "quote": "JLR free cash flow was strong; domestic EV ramp still depends on incentive continuity, which we do not treat as guaranteed.",
+    "text": "JLR free cash flow was strong; domestic EV ramp still depends on incentive continuity, which we do not treat as guaranteed. Demand in the domestic EV book could be delayed if incentives lapse. JLR booking commentary was resilient. No margin compressed language for JLR."
+  },
+  {
+    "id": "sebi-fo",
+    "title": "SEBI retail F&O note",
+    "kind": "sebi",
+    "date": "2026-06-30",
+    "tickers": ["RELIANCE", "TCS", "INFY", "HDFCBANK", "TATAMOTORS"],
+    "quote": "Retail participation in index derivatives remains loss-making for a large majority of unique clients; leverage is not a substitute for a process.",
+    "text": "Retail participation in index derivatives remains loss-making for a large majority of unique clients; leverage is not a substitute for a process. The note does not name individual cash equities. It is a process warning."
+  },
+  {
+    "id": "fii-flows",
+    "title": "FII flow week",
+    "kind": "news",
+    "date": "2026-08-28",
+    "tickers": ["HDFCBANK", "RELIANCE"],
+    "quote": "Foreign accounts were net buyers of financials and energy on the week; IT remained an underweight.",
+    "text": "Foreign accounts were net buyers of financials and energy on the week; IT remained an underweight."
+  },
+  {
+    "id": "it-wire",
+    "title": "Nifty IT tape",
+    "kind": "news",
+    "date": "2026-08-29",
+    "tickers": ["INFY", "TCS"],
+    "quote": "Nifty IT lagged the cash index as European spending commentary stayed soft; analysts split between buyback support and margin risk.",
+    "text": "Nifty IT lagged the cash index as European spending commentary stayed soft; analysts split between buyback support and margin risk."
+  },
+  {
+    "id": "auto-volume",
+    "title": "Tata unusual volume",
+    "kind": "news",
+    "date": "2026-08-31",
+    "tickers": ["TATAMOTORS"],
+    "quote": "Tata Motors traded at more than twice its 20-day average volume into the close, with options open interest skewed to near calls.",
+    "text": "Tata Motors traded at more than twice its 20-day average volume into the close, with options open interest skewed to near calls."
+  }
+]

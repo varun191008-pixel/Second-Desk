@@ -1,0 +1,18 @@
+date,ticker,side,qty,price,r5,volz,note
+2025-09-02,TATAMOTORS,buy,80,880,0.062,1.80,breakout add
+2025-09-18,TATAMOTORS,buy,60,900,0.071,2.10,breakout add
+2025-10-03,TCS,buy,15,4000,-0.018,0.20,opened loser
+2025-10-05,TCS,sell,15,3880,-0.031,0.40,cut loser in two sessions
+2025-10-21,RELIANCE,buy,10,2650,0.052,1.30,chase then closed
+2025-11-02,RELIANCE,sell,10,2710,0.020,0.60,short hold
+2025-11-20,INFY,buy,12,1420,0.055,1.20,chase then closed
+2025-12-01,INFY,sell,12,1510,0.018,0.50,short hold
+2025-12-12,TATAMOTORS,buy,40,910,0.055,1.40,completes 180
+2026-01-08,RELIANCE,buy,35,2720,0.048,1.30,open lot
+2026-01-22,INFY,buy,20,1490,0.044,1.10,open lot
+2026-02-10,HDFCBANK,buy,20,1600,0.050,1.15,chase then closed
+2026-02-24,HDFCBANK,sell,20,1640,0.012,0.40,short hold
+2026-03-15,TCS,buy,10,3950,0.058,1.40,chase then closed
+2026-03-28,TCS,sell,10,3990,0.010,0.20,short hold
+2026-04-10,RELIANCE,buy,8,2750,0.061,1.60,chase then closed
+2026-04-18,RELIANCE,sell,8,2790,0.015,0.50,short hold

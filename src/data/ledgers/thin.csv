@@ -1,0 +1,4 @@
+date,ticker,side,qty,price,r5,volz,note
+2026-07-02,INFY,buy,5,1510,0.004,0.10,first buy
+2026-07-20,INFY,buy,5,1525,0.007,0.00,second buy
+2026-08-05,INFY,buy,5,1535,0.005,0.20,third buy

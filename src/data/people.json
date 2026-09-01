@@ -1,0 +1,33 @@
+[
+  {
+    "id": "asha",
+    "name": "Asha Menon",
+    "age": 58,
+    "bio": "Retirement corpus. Ledger will score her defensive — do not hardcode that word into agents.",
+    "cash": 420000,
+    "holdings": [
+      { "ticker": "HDFCBANK", "qty": 120, "avg": 1540 },
+      { "ticker": "TCS", "qty": 40, "avg": 3800 }
+    ]
+  },
+  {
+    "id": "vikram",
+    "name": "Vikram Rao",
+    "age": 26,
+    "bio": "Active F&O-era cash trader. Ledger will score him aggressive — do not hardcode that.",
+    "cash": 185000,
+    "holdings": [
+      { "ticker": "TATAMOTORS", "qty": 180, "avg": 910 },
+      { "ticker": "RELIANCE", "qty": 35, "avg": 2720 },
+      { "ticker": "INFY", "qty": 20, "avg": 1490 }
+    ]
+  },
+  {
+    "id": "thin",
+    "name": "Riya Shah",
+    "age": 31,
+    "bio": "New account. Too few trades for a personal desk.",
+    "cash": 80000,
+    "holdings": [{ "ticker": "INFY", "qty": 15, "avg": 1520 }]
+  }
+]

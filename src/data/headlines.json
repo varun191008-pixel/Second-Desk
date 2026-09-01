@@ -1,0 +1,79 @@
+[
+  {
+    "id": "it-wire-infy",
+    "ticker": "INFY",
+    "date": "2026-08-29",
+    "text": "Nifty IT lagged cash index as European spending commentary stayed soft; analysts split between buyback and margins",
+    "polarity": -1
+  },
+  {
+    "id": "infy-buyback-hl",
+    "ticker": "INFY",
+    "date": "2026-08-28",
+    "text": "Infosys accelerates open-market buyback tranche supported by strong free cash flows",
+    "polarity": 1
+  },
+  {
+    "id": "sebi-fo-infy",
+    "ticker": "INFY",
+    "date": "2026-08-25",
+    "text": "SEBI issues cautionary guidance on retail leverage and derivatives participation",
+    "polarity": 0
+  },
+  {
+    "id": "it-wire-tcs",
+    "ticker": "TCS",
+    "date": "2026-08-29",
+    "text": "Nifty IT underperforms as European enterprise budgets pause discretionary digital transformations",
+    "polarity": -1
+  },
+  {
+    "id": "tcs-q1-hl",
+    "ticker": "TCS",
+    "date": "2026-08-22",
+    "text": "TCS flags slower revenue conversion and cautious near-term margin band in UK public sector",
+    "polarity": -1
+  },
+  {
+    "id": "ril-agm-hl",
+    "ticker": "RELIANCE",
+    "date": "2026-08-21",
+    "text": "Reliance AGM note: New energy capex committed through FY27 funded by resilient consumer & Jio engines",
+    "polarity": 1
+  },
+  {
+    "id": "fii-flows-ril",
+    "ticker": "RELIANCE",
+    "date": "2026-08-28",
+    "text": "Foreign institutional investors turn aggressive net buyers in domestic energy heavyweights",
+    "polarity": 1
+  },
+  {
+    "id": "hdfc-credit-hl",
+    "ticker": "HDFCBANK",
+    "date": "2026-08-20",
+    "text": "HDFC Bank credit update: Gross NPA stable sequentially with loan growth guidance maintained",
+    "polarity": 1
+  },
+  {
+    "id": "fii-flows-hdfc",
+    "ticker": "HDFCBANK",
+    "date": "2026-08-28",
+    "text": "FII flow week: Large-cap private banking majors lead institutional inflow tally",
+    "polarity": 1
+  },
+  {
+    "id": "auto-volume-hl",
+    "ticker": "TATAMOTORS",
+    "date": "2026-08-31",
+    "text": "Tata Motors trades over 2x 20-day average volume into the close with heavy call OI buildup",
+    "polarity": 1
+  },
+  {
+    "id": "tatam-jlr-hl",
+    "ticker": "TATAMOTORS",
+    "date": "2026-08-26",
+    "text": "Tata Motors notes domestic EV ramp pace remains contingent on continuity of government incentives",
+    "polarity": -1
+  }
+]
